@@ -9,5 +9,5 @@ feature_importances_ возвращает вектор "важностей" пр
 
 https://github.com/Alexv035/DataScience/edit/main/Lesson4
 
-alex35
+alex035
 Avoronkov_predictions_cat.csv - 0.56
